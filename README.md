@@ -234,7 +234,7 @@
       </td>
       <td width="33%" align="center">
         <h3>🚀 Product Engineering</h3>
-        <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" alt="Product">
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" alt="Product engineering">
         <p>
           • Full-stack web development<br>
           • Frontend architecture<br>
@@ -245,7 +245,7 @@
       </td>
       <td width="33%" align="center">
         <h3>🤖 AI & Innovation</h3>
-        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" alt="AI">
+        <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100" alt="AI and innovation">
         <p>
           • AI/ML model integration<br>
           • LLM APIs & embeddings<br>
