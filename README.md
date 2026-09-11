@@ -28,16 +28,16 @@
         <strong>Currently:</strong> Building innovative tech products | Studying CS at University of the People
       </p>
       <div align="left">
-        <a href="https://twitter.com" target="_blank">
+        <a href="https://x.com/Jungudotukur" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
         </a>
-        <a href="https://linkedin.com" target="_blank">
+        <a href="https://www.linkedin.com/in/jungudo-muh-d-tukur-b76764422/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
         <a href="mailto:jungudomuammadtukur@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
-        <a href="#" target="_blank">
+        <a href="https://jungudo-portfolio-six.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio" />
         </a>
       </div>
@@ -57,7 +57,7 @@
     <td width="50%">
       <h3 align="center">🏠 PropaBridge</h3>
       <div align="center">
-        <a href="https://github.com/your-repo" target="_blank">
+        <a href="https://jungudo-portfolio-six.vercel.app/" target="_blank">
           <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="PropaBridge">
         </a>
         <p align="center">
@@ -72,7 +72,7 @@
     <td width="50%">
       <h3 align="center">🧠 WizzyAI</h3>
       <div align="center">
-        <a href="https://github.com/your-repo" target="_blank">
+        <a href="https://jungudo-portfolio-six.vercel.app/" target="_blank">
           <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="WizzyAI">
         </a>
         <p align="center">
@@ -91,7 +91,7 @@
     <td width="50%">
       <h3 align="center">🌾 AgriSense IoT</h3>
       <div align="center">
-        <a href="https://github.com/your-repo" target="_blank">
+        <a href="https://jungudo-portfolio-six.vercel.app/" target="_blank">
           <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="AgriSense">
         </a>
         <p align="center">
@@ -132,23 +132,23 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" />
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65" height="65" />
         <br>TypeScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" />
         <br>React
       </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65" />
         <br>Node.js
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" />
         <br>Python
       </td>
       <td align="center" width="96">
@@ -158,33 +158,33 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65" />
         <br>Next.js
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framer/framer-original.svg" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="65" height="65" />
         <br>Framer
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontentr.com/25181517/189715289-df3ee512-6eca-463f-a0f4-41dae0perv.png" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" />
         <br>Figma
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" />
         <br>Git
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65" />
         <br>GitHub
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" />
         <br>Tailwind CSS
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="65" height="65" />
         <br>Firebase
       </td>
       <td align="center" width="96">
@@ -192,7 +192,7 @@
         <br>TensorFlow
       </td>
       <td align="center" width="96">
-        <img src="https://img.icons8.com/?size=100&id=Ker3WD813mHr&format=png&color=000000" width="65" height="65" />
+        <img src="https://cdn.simpleicons.org/claude" width="65" height="65" />
         <br>Claude API
       </td>
       <td align="center" width="96">
@@ -200,11 +200,11 @@
         <br>Google Cloud
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" height="65" />
         <br>AWS
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" />
         <br>Docker
       </td>
     </tr>
@@ -262,32 +262,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <h2>
     <img src="https://media.giphy.com/media/3oKIPalq8NbJ4x0jJO/giphy.gif" width="30">
-    Business Ventures
+    Open to Collaboration
   </h2>
-</div>
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🎁 KBS Creation</h3>
-        <p>
-          Gift and decor business based in Gombe State, Nigeria. Bringing creativity and thoughtful design to every celebration and special moment.
-        </p>
-        <p>
-          <strong>@kbscreation_ng</strong>
-        </p>
-      </td>
-      <td width="50%" align="center">
-        <h3>🎓 Open to Collaboration</h3>
-        <p>
-          Always excited to collaborate on meaningful projects that create impact in African tech, education tech, and sustainable agriculture.
-        </p>
-        <p>
-          Let's build something great together! 🚀
-        </p>
-      </td>
-    </tr>
-  </table>
+  <p>
+    Always excited to collaborate on meaningful projects that create impact in African tech, education tech, and sustainable agriculture.
+  </p>
+  <p>Let's build something great together! 🚀</p>
 </div>
 <!-- Dev Quote with Modern Design -->
 <div align="center">
@@ -307,7 +287,7 @@
   <img src="https://komarev.com/ghpvc/?username=hafeezmt&style=for-the-badge&color=FF6B6B" alt="Profile Views" />
   <br><br>
   <!-- Fun personal badges -->
-![Gombe Based](https://img.shields.io/badge/Location-Gombe%20State%2C%20Nigeria-ff6b6b?style=for-the-badge&logo=mapbox)
+<img src="https://img.shields.io/badge/Location-Gombe%20State%2C%20Nigeria-ff6b6b?style=for-the-badge&logo=mapbox" alt="Gombe Based" />
 
 ![Tech Entrepreneur](https://img.shields.io/badge/Focus-African%20Tech-4ecdc4?style=for-the-badge)
 
