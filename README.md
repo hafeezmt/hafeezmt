@@ -18,7 +18,7 @@
     <td width="55%">
       <h2 align="left">👨🏻‍💻 About Me</h2>
       <p align="left">
-        I'm a UI/UX Designer and tech entrepreneur passionate about creating meaningful products for African contexts. My journey combines design thinking with software engineering to build scalable, human-centered solutions that solve real-world problems.
+        I'm a UI/UX Designer And Frontend Developer and passionate about creating meaningful products for African contexts. My journey combines design thinking with software engineering to build scalable, human-centered solutions that solve real-world problems.
       </p><br>
       <p align="left">
         I specialize in turning complex challenges into elegant, intuitive interfaces. Whether designing seamless real estate experiences, building AI-powered learning companions for African children, or developing IoT solutions for agriculture, I believe great design bridges the gap between powerful technology and everyday usability.
