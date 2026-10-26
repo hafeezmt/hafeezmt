@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Modern Animated Header with Gradient Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=190&section=header&text=JUNGUDO%20MUHAMMAD%20TUKUR&desc=UI%2FUX%20Designer%20%7C%20Product%20Engineer%20%7C%20AI%20Entrepreneur&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=190&section=header&text=Frontend%20DEV&desc=Frontend%20Developer&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
   <!-- Clean Modern Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&height=70&lines=Building+tech+for+African+contexts;Designing+delightful+user+experiences;AI-powered+learning+solutions;Scalable+product+architecture;Bridging+design+and+technology;Empowering+through+thoughtful+design" alt="Typing SVG" />
