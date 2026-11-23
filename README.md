@@ -1,305 +1,113 @@
 <div align="center">
-  <!-- Modern Animated Header with Gradient Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:00BFFF&height=190&section=header&text=JUNGUDO%20MUHAMMAD%20TUKUR&desc=UI%2FUX%20Designer%20%7C%20Frontend%20Developer&fontSize=38&fontColor=FFFFFF&fontAlignY=35&descSize=17&descAlignY=55&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
-  <!-- Clean Modern Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&height=70&lines=Building+tech+for+African+contexts;Designing+delightful+user+experiences;AI-powered+learning+solutions;Scalable+product+architecture;Bridging+design+and+technology;Empowering+through+thoughtful+design" alt="Typing SVG" />
-  </a>
-  <!-- Subtle Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-<!-- Modern Profile Card -->
-<table>
-  <tr>
-   <td width="45%" align="center">
-  <img src="./profile.png" 
-       alt="Profile" width="100%" style="border-radius: 15px;" />
-</td>
-    <td width="55%">
-      <h2 align="left">👨🏻‍💻 About Me</h2>
-      <p align="left">
-        I'm a UI/UX Designer And Frontend Developer and passionate about creating meaningful products for African contexts. My journey combines design thinking with software engineering to build scalable, human-centered solutions that solve real-world problems.
-      </p><br>
-      <p align="left">
-        I specialize in turning complex challenges into elegant, intuitive interfaces. Whether designing seamless real estate experiences, building AI-powered learning companions for African children, or developing IoT solutions for agriculture, I believe great design bridges the gap between powerful technology and everyday usability.
-      </p>
-      <p align="left">
-        <strong>Location:</strong> Gombe State, Nigeria 🇳🇬<br>
-        <strong>Currently:</strong> Building innovative tech products | Studying CS at University of the People
-      </p>
-      <div align="left">
-        <a href="https://x.com/Jungudotukur" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-        </a>
-        <a href="https://www.linkedin.com/in/jungudo-muh-d-tukur-b76764422/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <a href="mailto:jungudomuammadtukur@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-        <a href="https://jungudo-portfolio-six.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-<!-- Current Projects Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-    Featured Projects
-  </h2>
-</div>
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏠 PropaBridge</h3>
-      <div align="center">
-        <a href="https://jungudo-portfolio-six.vercel.app/" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="PropaBridge">
-        </a>
-        <p align="center">
-          A modern Nigerian real estate marketplace connecting buyers, sellers, and agents seamlessly. Built with stunning UI/UX, interactive property discovery, and intelligent search capabilities. Lead designer focused on creating delightful user experiences across all touchpoints.
-        </p>
-        <p align="center">
-          <strong>Role:</strong> Lead Designer<br>
-          <strong>Tech Stack:</strong> Framer, React, Node.js, TypeScript
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧠 WizzyAI</h3>
-      <div align="center">
-        <a href="https://jungudo-portfolio-six.vercel.app/" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="WizzyAI">
-        </a>
-        <p align="center">
-          AI-powered learning companion designed for African children aged 5-15. Combines personalized learning paths, interactive lessons, and intelligent tutoring powered by advanced AI models. Making quality education accessible to every child.
-        </p>
-        <p align="center">
-          <strong>Role:</strong> Solo Founder<br>
-          <strong>Tech Stack:</strong> Python, React, Node.js, TensorFlow, Claude API
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌾 AgriSense IoT</h3>
-      <div align="center">
-        <a href="https://jungudo-portfolio-six.vercel.app/" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="AgriSense">
-        </a>
-        <p align="center">
-          Offline-first farm monitoring startup bringing IoT solutions to rural agriculture. Real-time sensor data, predictive analytics, and actionable insights for farmers. Built with offline capability for areas with limited connectivity.
-        </p>
-        <p align="center">
-          <strong>Role:</strong> Co-founder & Operations Lead<br>
-          <strong>Tech Stack:</strong> Python, IoT, React, Node.js, Firebase
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📸 SiteLens-AI</h3>
-      <div align="center">
-        <a href="https://github.com/hafeezmt/SiteLens-AI" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="SiteLens">
-        </a>
-        <p align="center">
-          Site inspection photo management app with Google Drive integration and AI-powered image enhancement. Streamlines construction and property inspection workflows with intelligent photo tagging and organization.
-        </p>
-        <p align="center">
-          <strong>Role:</strong> Lead Developer<br>
-          <strong>Tech Stack:</strong> React, Node.js, Google Drive API, TensorFlow
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-<!-- Tech Stack with Modern Design -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
-    Tech Stack
-  </h2>
-</div>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65" height="65" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" />
-        <br>React Native
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65" />
-        <br>Next.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/framer" width="65" height="65" />
-        <br>Framer
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" />
-        <br>Figma
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" />
-        <br>Tailwind CSS
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="65" height="65" />
-        <br>Firebase
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="65" height="65" />
-        <br>TensorFlow
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/claude" width="65" height="65" />
-        <br>Claude API
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="65" height="65" />
-        <br>Google Cloud
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" height="65" />
-        <br>AWS
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" />
-        <br>Docker
-      </td>
-    </tr>
-  </table>
-</div>
-<!-- Specialized Skills Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <h2>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-    Specialized Skills
-  </h2>
-</div>
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <h3>🎨 UI/UX Design</h3>
-        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" alt="Design">
-        <p>
-          • User-centered design<br>
-          • Wireframing & Prototyping<br>
-          • Design systems & components<br>
-          • Interactive design (Framer)<br>
-          • User research & testing<br>
-        </p>
-      </td>
-      <td width="33%" align="center">
-        <h3>🚀 Product Engineering</h3>
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" alt="Product engineering">
-        <p>
-          • Full-stack web development<br>
-          • Frontend architecture<br>
-          • API design & integration<br>
-          • Database optimization<br>
-          • Product strategy<br>
-        </p>
-      </td>
-      <td width="33%" align="center">
-        <h3>🤖 AI & Innovation</h3>
-        <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100" alt="AI and innovation">
-        <p>
-          • AI/ML model integration<br>
-          • LLM APIs & embeddings<br>
-          • Computer vision<br>
-          • IoT & sensor integration<br>
-          • African-context tech<br>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-<!-- Business & Ventures -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <h2>
-    <img src="https://media.giphy.com/media/3oKIPalq8NbJ4x0jJO/giphy.gif" width="30">
-    Open to Collaboration
-  </h2>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:173B5E,100:0F766E&height=240&section=header&text=JUNGUDO%20MUHAMMAD%20TUKUR&fontSize=34&fontColor=F8FAFC&fontAlignY=35&desc=AI%20ENGINEER%20%E2%80%A2%20SOFTWARE%20DEVELOPER%20%E2%80%A2%20TECHNOLOGY%20INNOVATOR&descSize=15&descAlignY=58&animation=fadeIn"
+    width="100%"
+    alt="Jungudo Muhammad Tukur — AI Engineer, Software Developer, Technology Innovator"
+  />
   <p>
-    Always excited to collaborate on meaningful projects that create impact in African tech, education tech, and sustainable agriculture.
+    <a href="https://github.com/hafeezmt">
+      <img src="https://img.shields.io/badge/GitHub-hafeezmt-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: hafeezmt" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-Nigeria-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Nigeria" />
+    <a href="https://jungudo-portfolio-zeta.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
   </p>
-  <p>Let's build something great together! 🚀</p>
 </div>
-<!-- Dev Quote with Modern Design -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <h2>
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
-    My Philosophy
-  </h2>
-</div>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="95%" />
-</div>
-<!-- Footer with Visitor Count -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=hafeezmt&style=for-the-badge&color=FF6B6B" alt="Profile Views" />
-  <br><br>
-  <!-- Fun personal badges -->
-<img src="https://img.shields.io/badge/Location-Gombe%20State%2C%20Nigeria-ff6b6b?style=for-the-badge&logo=mapbox" alt="Gombe Based" />
 
-![Tech Entrepreneur](https://img.shields.io/badge/Focus-African%20Tech-4ecdc4?style=for-the-badge)
+## About
 
-![Student](https://img.shields.io/badge/Studying-Computer%20Science-FFD700?style=for-the-badge)
+<p align="center">
+  <img src="./profile.png" width="148" alt="Portrait of Jungudo Muhammad Tukur" />
+</p>
 
-<!-- Status badges -->
-![Status](https://img.shields.io/badge/Status-Building%20Impact-ff69b4?style=for-the-badge)
+I’m **Jungudo Muhammad Tukur**, an AI engineer and software developer based in Nigeria. I build practical digital products that bring software, applied AI, and connected devices together to solve real-world problems.
 
-  <h3>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-    "Building thoughtful technology for African contexts. Design + Engineering + Entrepreneurship."
-  </h3>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=120&section=footer&text=Let%27s%20Build%20Together&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" width="100%"/>
-</div>
+I’m especially interested in **artificial intelligence, autonomous agents, applied machine learning, open source, and IoT**—and in designing technology that works for the people and environments it serves.
+
+## Technology
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-6D5AE6?style=for-the-badge&logo=ollama&logoColor=white" alt="Artificial intelligence and machine learning" />
+  <img src="https://img.shields.io/badge/IoT-0F766E?style=for-the-badge&logo=arduino&logoColor=white" alt="Internet of Things" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## Selected Projects
+
+### [PropaBridge](https://propabridge.com)
+
+A verified property marketplace focused on Nigeria. My work has included product design, user flows, the verification experience, and frontend contributions.
+
+`PropTech` `Product design` `Frontend`
+
+### [AgriSense IoT](https://github.com/hafeezmt/agrisence-iOT)
+
+An offline-first livestock and poultry environment-monitoring project. Its design uses local sensors, audible alerts, and GSM SMS notifications to help make farm monitoring useful without an internet connection.
+
+`AgriTech` `IoT` `Offline-first` · *In development*
+
+### [WizzyAI](https://jungudo-portfolio-zeta.vercel.app/#work)
+
+An educational AI companion prototype exploring personalized, culturally grounded learning experiences for African children.
+
+`Applied AI` `EdTech` `Prototype`
+
+### More work
+
+- **[SiteLens-AI](https://github.com/hafeezmt/SiteLens-AI)** — AI-assisted site inspection and image management with Google Drive integration.
+- **[OfflineScholar-chat](https://github.com/hafeezmt/OfflineScholar-chat)** — A local-first AI study companion designed to run on your own computer.
+- **[ListingWriter](https://github.com/hafeezmt/listingwriter)** — An open-source assistant for creating property marketing copy for Nigerian real estate.
+- **[Tilawa Daily](https://github.com/hafeezmt/Tilawa_Daily)** — A web app for coordinating Quran recitation circles and daily reading.
+
+## GitHub at a glance
+
+These cards are generated from my public GitHub activity and update automatically.
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hafeezmt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=2DD4BF&text_color=C9D1D9"
+    width="100%"
+    alt="GitHub statistics for hafeezmt"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafeezmt&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9"
+    width="100%"
+    alt="Most-used public GitHub languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hafeezmt&bg_color=0D1117&color=C9D1D9&line=2DD4BF&point=67E8F9&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+</p>
+
+## Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/jungudo-tukur">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Jungudotukur">
+    <img src="https://img.shields.io/badge/X-Follow-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:jungudo.muhammad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://jungudo-portfolio-zeta.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
+  </a>
+</p>
