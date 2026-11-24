@@ -15,15 +15,35 @@
   </p>
 </div>
 
-## About
+<hr />
 
-<p align="center">
-  <img src="./profile.png" width="148" alt="Portrait of Jungudo Muhammad Tukur" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="38%" valign="middle" align="center">
+      <img src="./profile.png" width="100%" alt="Portrait of Jungudo Muhammad Tukur" />
+    </td>
+    <td width="62%" valign="top">
+      <h2>👨🏽‍💻 Who I Am</h2>
+      <p>
+        I’m <strong>Jungudo Muhammad Tukur</strong>, an AI engineer and software developer based in Nigeria. I’m interested in building useful technology—not just exploring it in theory—and bringing software, applied AI, and connected devices into real-world products.
+      </p>
+      <p>
+        My work spans different kinds of problems: contributing to the product design, verification experience, and frontend of <strong>PropaBridge</strong>, a Nigerian property marketplace, and developing <strong>AgriSense IoT</strong>, an offline-first livestock monitoring project designed around sensors and GSM alerts. I also explore how AI can support more personal, locally relevant learning through the <strong>WizzyAI</strong> prototype.
+      </p>
+      <p>
+        I’m especially drawn to <strong>autonomous agents, applied machine learning, open source, and IoT</strong>—with a focus on technology that is practical, accessible, and grounded in its context.
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/jungudo-tukur"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://x.com/Jungudotukur"><img src="https://img.shields.io/badge/X_(TWITTER)-111827?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+        <a href="https://propabridge.com"><img src="https://img.shields.io/badge/PROPABRIDGE-0F766E?style=for-the-badge&logo=homeassistant&logoColor=white" alt="PropaBridge" /></a>
+        <a href="https://github.com/hafeezmt"><img src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-I’m **Jungudo Muhammad Tukur**, an AI engineer and software developer based in Nigeria. I build practical digital products that bring software, applied AI, and connected devices together to solve real-world problems.
-
-I’m especially interested in **artificial intelligence, autonomous agents, applied machine learning, open source, and IoT**—and in designing technology that works for the people and environments it serves.
+> **Currently:** Building and exploring practical AI, software, and IoT projects from Nigeria.
 
 ## Technology
 
@@ -67,9 +87,35 @@ An educational AI companion prototype exploring personalized, culturally grounde
 - **[ListingWriter](https://github.com/hafeezmt/listingwriter)** — An open-source assistant for creating property marketing copy for Nigerian real estate.
 - **[Tilawa Daily](https://github.com/hafeezmt/Tilawa_Daily)** — A web app for coordinating Quran recitation circles and daily reading.
 
-## GitHub at a glance
+## 📈 Momentum
 
-These cards are generated from my public GitHub activity and update automatically.
+<p align="center">
+  <strong>My GitHub contribution activity</strong>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hafeezmt&bg_color=0D1117&color=C9D1D9&line=2DD4BF&point=67E8F9&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub contribution activity over time"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/0F766E/hafeezmt"
+    width="100%"
+    alt="GitHub contribution calendar for hafeezmt"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/hafeezmt?tab=overview#repositories">
+    <img src="https://img.shields.io/badge/VIEW%20MY%20GITHUB%20ACTIVITY-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View my GitHub activity" />
+  </a>
+</p>
+
+### GitHub Stats & Languages
 
 <p align="center">
   <img
@@ -84,14 +130,6 @@ These cards are generated from my public GitHub activity and update automaticall
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafeezmt&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9"
     width="100%"
     alt="Most-used public GitHub languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hafeezmt&bg_color=0D1117&color=C9D1D9&line=2DD4BF&point=67E8F9&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub contribution activity graph"
   />
 </p>
 
