@@ -95,7 +95,7 @@ An educational AI companion prototype exploring personalized, culturally grounde
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hafeezmt&bg_color=0D1117&color=C9D1D9&line=2DD4BF&point=67E8F9&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=hafeezmt&custom_title=Jungudo%20Muhammad%20Tukur%27s%20Contribution%20Graph&height=280&bg_color=16191D&color=00D9B6&title_color=C9D1D9&line=2DD4BF&point=67E8F9&area=true&hide_border=true"
     width="100%"
     alt="GitHub contribution activity over time"
   />
@@ -127,9 +127,14 @@ An educational AI companion prototype exploring personalized, culturally grounde
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafeezmt&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9"
+    src="https://capsule-render.vercel.app/api?type=transparent&fontFamily=Segoe%20UI&fontColor=67E8F9&fontSize=46&fontAlign=46&fontAlignY=55&height=90&section=header&text=Most%20Used%20Languages"
     width="100%"
-    alt="Most-used public GitHub languages"
+    alt="Most Used Languages"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafeezmt&langs_count=10&card_width=800&hide_title=true&hide_border=true&bg_color=0D1117&text_color=C9D1D9"
+    width="100%"
+    alt="Most Used Languages from public GitHub repositories"
   />
 </p>
 
