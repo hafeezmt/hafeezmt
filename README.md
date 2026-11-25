@@ -127,10 +127,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hafeezmt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4aa&icon_color=7209b7&text_color=FFFFFF&ring_color=00d4aa" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hafeezmt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4aa&icon_color=7209b7&text_color=FFFFFF&ring_color=00d4aa" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=hafeezmt&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d4aa&fire=7209b7&currStreakLabel=00d4aa" width="49%" />
   <br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafeezmt&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4aa&text_color=FFFFFF" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafeezmt&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4aa&text_color=FFFFFF" width="42%" />
 </div>
 
 <!-- Expertise -->
