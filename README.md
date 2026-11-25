@@ -103,7 +103,7 @@
       <h3 align="center">🌱 AgriSense IoT</h3>
       <div align="center">
         <a href="https://github.com/hafeezmt/agrisence-iOT" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="AgriSense IoT">
+          <img src="https://raw.githubusercontent.com/hafeezmt/agrisence-iOT/main/assets/hardware_lab.jpg" width="250" alt="AgriSense IoT">
         </a>
         <p align="center">
           An offline-first livestock and poultry environment-monitoring project designed around localized sensors, audible alerts, and GSM SMS notifications, so farm monitoring can work without internet access.
