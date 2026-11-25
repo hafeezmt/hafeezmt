@@ -188,10 +188,10 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="90"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" /><br>Python</td>
-      <td align="center" width="90"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" height="60" /><br>TypeScript</td>
-      <td align="center" width="90"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" /><br>JavaScript</td>
-      <td align="center" width="90"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" /><br>React</td>
+      <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" /><br>Python</td>
+      <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" /><br>TypeScript</td>
+      <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" /><br>JavaScript</td>
+      <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" /><br>React</td>
       <td align="center" width="90"><img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="60" height="60" /><br>Next.js</td>
       <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" /><br>Node.js</td>
       <td align="center" width="90"><img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" width="60" height="60" /><br>Flutter</td>
