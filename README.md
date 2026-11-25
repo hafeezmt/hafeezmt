@@ -84,7 +84,7 @@
       <h3 align="center">🏠 PropaBridge</h3>
       <div align="center">
         <a href="https://propabridge.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/project.gif" width="250" alt="PropaBridge">
+          <img src="https://propabridge.com/images/sell/sell-hero-bg.png" width="250" alt="PropaBridge">
         </a>
         <p align="center">
           A Nigerian property marketplace focused on verified listings and a more trustworthy home-search experience. My work has included product design, user flows, the verification experience, and frontend contributions.
