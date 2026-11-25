@@ -240,7 +240,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hafeezmt&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15" width="95%" alt="Trophy" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=hafeezmt&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15" width="95%" alt="Trophy" />
 </div>
 
 <!-- Quote -->
